@@ -45,7 +45,7 @@ aug = np.column_stack((A, B))
 rank_A = np.linalg.matrix_rank(A)
 rank_aug = np.linalg.matrix_rank(aug)
 
-print("\n🔍 System Type:")
+print("\nSystem Type:")
 if rank_A != rank_aug:
     print("Inconsistent system (No solution)")
 elif rank_A < A.shape[1]:
