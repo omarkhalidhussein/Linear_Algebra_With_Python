@@ -1,8 +1,8 @@
 ##
 # ======================================================================================================================
-# Name        : EX2_Python_Program_To_Print_RREF(2)_Manual_Row_Operations.py
+# Name        : EX5_Python_Program_To_Print_RREF(2)_Manual_Row_Operations.py
 # Created on  : July 10, 2025
-# Description : Python Programming >> EX1 Python Program To Print RREF(2) Manual Row Operations
+# Description : Python Programming >> EX5 Python Program To Print RREF(2) Manual Row Operations
 # ======================================================================================================================
 ##
 
