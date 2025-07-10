@@ -7,7 +7,7 @@
 ##
 
 
-import numpy as np
+import numpy as n
 
 # معاملات النظام (A)
 A = np.array([
