@@ -1,8 +1,8 @@
 ##
 # ======================================================================================================================
-# Name        : EX3_Python_Program_Solve_3x3_System_Using_Linalg.py
+# Name        : EX6_Python_Program_Solve_3x3_System_Using_Linalg.py
 # Created on  : July 10, 2025
-# Description : Python Programming >> EX3 Solve 3x3 System using NumPy's linalg.solve and Rank Analysis
+# Description : Python Programming >> EX6 Solve 3x3 System using NumPy's linalg.solve and Rank Analysis
 # ======================================================================================================================
 ##
 
